@@ -1,0 +1,6 @@
+models/
+data/
+mlartifacts/
+__pycache__/
+.pytest_cache/
+mlflow.db
